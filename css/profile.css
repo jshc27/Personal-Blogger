@@ -1,0 +1,38 @@
+.profile-main-container {
+
+    padding: 70px 40px;
+    background-color: #cdd2da;
+    margin-bottom: 50px;
+}
+.profile-main-container img {
+    width: 250px;
+    margin-right: 30px;
+}
+
+.profile-container {
+    display: flex;
+}
+
+.projects-container a {
+    border-bottom: 1px solid black;
+}
+
+.profile-main-projects {
+    padding: 0 100px 40px;
+}
+
+.profile-main-projects h3 {
+    border-bottom: 1px solid #cdd2da;
+    padding-bottom: 35px;
+    text-align: center;
+}
+
+.projects-main-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: ;
+}
+
+.projects-container {
+    padding:  0 5px;
+}
