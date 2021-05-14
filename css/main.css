@@ -88,6 +88,11 @@ nav .profile-link {
     border-color: transparent;
 }
 
+.profile-button:hover {
+    background-color: #47cfac;
+}
+    
+
 nav .profile-button a {
     font-family: 'Roboto', sans-serif;
     color: black;
